@@ -4,7 +4,7 @@ Created by Dan Bennett December 2013
 For DJ Riko.
 24th December 2013 - Merry Christmas & Happy new year!
 
-UPDATED: 28th Feb 2016. Step aside album.
+UPDATED 21st January 2017. Added buy option for Contagious To The Core & Step aside album.
 */
 ?>
 
@@ -38,8 +38,9 @@ UPDATED: 28th Feb 2016. Step aside album.
 		
 		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">                        
 			<select name="os0">
-            		        <option value="UK Residents">UK Residents £15.00 GBP</option>
+           		        <option value="UK Residents">UK Residents £15.00 GBP</option>
     	     		 	<option value="Rest Of The World">Rest Of The World £20.00 GBP</option>
+                        <option value="Contagious To The Core & Step Aside Bundle">Contagious To The Core & Step Aside Bundle £24.99 GBP</option>
                		 </select>
 			<p>
 				<input type="hidden" name="cmd" value="_s-xclick">
