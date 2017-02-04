@@ -10,7 +10,7 @@ UPDATED 21st January 2017. Added buy option for Contagious To The Core & Step as
 
 <html>
 <head>
-    <title>Contagious Records presents - STEP ASIDE!</title>
+    <title>Contagious Records presents - Contagious To The Core! (Volume One)</title>
     <link rel="image_src" href="/hhfront.jpg" / >
     <meta name="description" content="Contagious Records presents - STEP ASIDE!" />
     <link rel="stylesheet" type"text/css" href="/style.css">
