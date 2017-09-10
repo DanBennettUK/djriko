@@ -4,7 +4,7 @@ Created by Dan Bennett December 2013
 For DJ Riko.
 24th December 2013 - Merry Christmas & Happy new year!
 
-UPDATED 21st January 2017. Added buy option for Contagious To The Core & Step aside album.
+UPDATED 10th September 2017. Added Contagious To The Core Volume Two & Changed I Am Contagious to TrackitDown
 */
 ?>
 
@@ -24,6 +24,31 @@ UPDATED 21st January 2017. Added buy option for Contagious To The Core & Step as
     </div>
         <hr>
     <table>
+    <tr>
+        <h1>Contagious To The Core (Volume Two) **PRE-ORDER NOW**</h1>
+    </tr>
+    <tr>
+        <img src="/c2c2front.jpg" style="float: left;" width="50%"> <img src="/c2c2back.jpg" style="float: left;" width="50%">
+    </tr>
+    <tr>
+        <h2> 15 UNMIXED DJ FRIENDLY TRACKS FROM <br/>JOEY RIOT, DJ KURT, RIKO, M-PROJECT, ROB IYF, CLOWNY + MORE.. 🔥<br/><br/>(Shipping 3rd/4th week of September)</h2>
+    <p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="3RHRF7ENP46AU">
+                <input type="hidden" name="on0" value="SHIPPING OPTIONS">
+            <select name="os0">
+                <option value="UK RESIDENTS">UK RESIDENTS £15.00 GBP</option>
+                <option value="REST OF THE WORLD">REST OF THE WORLD £20.00 GBP</option>
+                <option value="CTTC VOL 1 & 2 BUNDLE">CTTC VOL 1 & 2 BUNDLE £25.99 GBP</option>
+            </select>
+    <input type="hidden" name="currency_code" value="GBP">
+    <p>
+    <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+    </form>
+    </tr>
+    <hr>
 	<tr>
 		<h1>Contagious Records present:<br/>
 		Contagious To The Core (Volume One)</h1>
@@ -80,8 +105,8 @@ UPDATED 21st January 2017. Added buy option for Contagious To The Core & Step as
                 <br/>
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                     <select name="os0">
-                        <option value="Step Aside">Step Aside £6.00 GBP</option>
-                        <option value="Bundle (Step Aside & Hellers Hardcore)">Bundle (Step Aside & Hellers Hardcore) £11.00 GBP</option>
+                        <option value="UK Residents">UK Residents £8.00 GBP</option>
+                        <option value="Rest Of The World">Rest Of The World £16.00 GBP</option>
                     </select>
                     <p>
                         <input type="hidden" name="cmd" value="_s-xclick">
@@ -102,10 +127,10 @@ UPDATED 21st January 2017. Added buy option for Contagious To The Core & Step as
             <h1 >
                 Contagious Records Presents: <br/> I Am Contagious<p>
             </h1>
-            <a href="http://www.hardcoreunderground.co.uk/store/product/id/126"><img src="/riko-Front.jpg" class="album_img"></a>
-            <a href="http://www.hardcoreunderground.co.uk/store/product/id/126"><img src="/riko-back.jpg" class="album_img"></a>
+            <a href="https://www.trackitdown.net/track/riko/i-am-contagious/hardcore/11505672.html"><img src="/riko-Front.jpg" class="album_img"></a>
+            <a href="https://www.trackitdown.net/track/riko/i-am-contagious/hardcore/11505672.html"><img src="/riko-back.jpg" class="album_img"></a>
             <h1>
-                Available to order on <a href="http://www.hardcoreunderground.co.uk/store/product/id/126">Hardcore Underground</a> now.
+                Available to order on <a href="https://www.trackitdown.net/track/riko/i-am-contagious/hardcore/11505672.html">TrackItDown</a> now.
             </h1>
         </tr>
         <hr>
