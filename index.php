@@ -10,8 +10,8 @@ UPDATED 10th September 2017. Added Contagious To The Core Volume Two & Changed I
 
 <html>
 <head>
-    <title>Contagious Records presents - Contagious To The Core! (Volume One)</title>
-    <link rel="image_src" href="/hhfront.jpg" / >
+    <title>Contagious Records Albums, Free Music + More</title>
+    <link rel="image_src" href="/c2cfront.png" / >
     <meta name="description" content="Contagious Records presents - STEP ASIDE!" />
     <link rel="stylesheet" type"text/css" href="/style.css">
 </head>
@@ -25,13 +25,13 @@ UPDATED 10th September 2017. Added Contagious To The Core Volume Two & Changed I
         <hr>
     <table>
     <tr>
-        <h1>Contagious To The Core (Volume Two) **PRE-ORDER NOW**</h1>
+        <h1>Contagious To The Core (Volume Two) **OUT NOW**</h1>
     </tr>
     <tr>
         <img src="/c2c2front.jpg" style="float: left;" width="50%"> <img src="/c2c2back.jpg" style="float: left;" width="50%">
     </tr>
     <tr>
-        <h2> 15 UNMIXED DJ FRIENDLY TRACKS FROM <br/>JOEY RIOT, DJ KURT, RIKO, M-PROJECT, ROB IYF, CLOWNY + MORE.. 🔥<br/><br/>(Shipping 3rd/4th week of September)</h2>
+        <h2> 15 UNMIXED DJ FRIENDLY TRACKS FROM <br/>JOEY RIOT, DJ KURT, RIKO, M-PROJECT, ROB IYF, CLOWNY + MORE.. 🔥<br/><br/>(Shipping Now!)</h2>
     <p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
