@@ -4,15 +4,16 @@ Created by Dan Bennett December 2013
 For DJ Riko.
 24th December 2013 - Merry Christmas & Happy new year!
 
-UPDATED 10th September 2017. Added Contagious To The Core Volume Two & Changed I Am Contagious to TrackitDown
+UPDATED 4th March 2018. Added Unleashed album information.
+
 */
 ?>
 
 <html>
 <head>
     <title>Contagious Records Albums, Free Music + More</title>
-    <link rel="image_src" href="/c2cfront.png" / >
-    <meta name="description" content="Contagious Records presents - STEP ASIDE!" />
+    <link rel="image_src" href="/unleashed_front.jpg" / >
+    <meta name="description" content="Contagious Records Albums, Free Music + More" />
     <link rel="stylesheet" type"text/css" href="/style.css">
 </head>
 <body style="background-color:black;">
@@ -24,6 +25,29 @@ UPDATED 10th September 2017. Added Contagious To The Core Volume Two & Changed I
     </div>
         <hr>
     <table>
+    <tr>
+        <h1><b>**ORDER NOW**</b> - GTYM UNLEASHED</h1>
+    </tr>
+    <tr>
+        <img src="/unleashed_front.jpg" style="float: left;" width="50%"> <img src="/unleashed_reverse.jpg" style="float: left;" width="50%">
+    </tr>
+    <tr>
+        <h2>12 Unmixed DJ Friendly Tracks From: Riko, Rob IYF & Defekt</h2>
+    <p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="Q3AGXTXNKSPH2">
+    <input type="hidden" name="on0" value="GTYM UNLEASHED">GTYM UNLEASHED
+    <select name="os0">
+        <option value="UK RESIDENTS">UK RESIDENTS £15.00 GBP</option>
+        <option value="REST OF THE WORLD">REST OF THE WORLD £20.00 GBP</option>
+    <input type="hidden" name="currency_code" value="GBP">
+    <p>
+    <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+    </form>
+    </tr>
+    <hr>
     <tr>
         <h1>Contagious To The Core (Volume Two) **OUT NOW**</h1>
     </tr>
