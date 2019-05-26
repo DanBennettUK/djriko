@@ -1,7 +1,8 @@
 ---
 layout: post
+category: release
 title:  "RIKO Presents: Contagious"
-date:   2015-10-09 15:39:40
+date:   2013-12-24
 preview: /imgs/contagious/contagiousfront.jpg
 ---
 
