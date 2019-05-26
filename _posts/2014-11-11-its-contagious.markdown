@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Contagious Records Presents: It's Contagious!"
+title:  "Free Download!</br>Contagious Records Presents: It's Contagious!"
 category: release
 date:   2014-11-11
 preview: /imgs/contagious2front.jpg

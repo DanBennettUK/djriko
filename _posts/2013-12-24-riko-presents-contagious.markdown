@@ -1,7 +1,7 @@
 ---
 layout: post
 category: release
-title:  "RIKO Presents: Contagious"
+title:  "Free Download!</br>RIKO Presents: Contagious"
 date:   2013-12-24
 preview: /imgs/contagious/contagiousfront.jpg
 ---
