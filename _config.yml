@@ -12,3 +12,10 @@ url: "http://localhost:8000" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 permalink: pretty
+compress-site: yes
+
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
