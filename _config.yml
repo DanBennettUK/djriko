@@ -12,6 +12,7 @@ github_username: danbennettuk
 markdown: kramdown
 permalink: pretty
 compress-site: yes
+permalink: /:title/
 
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
