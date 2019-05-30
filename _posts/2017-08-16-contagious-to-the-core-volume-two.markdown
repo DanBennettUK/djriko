@@ -28,7 +28,7 @@ JOEY RIOT, DJ KURT, RIKO, M-PROJECT, ROB IYF, CLOWNY + MORE... 🔥
                 <input type="hidden" name="currency_code" value="GBP">
                 <p>
                     <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+                    <img alt="Paypal Pixel" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
                 </p>
             </form>
         </ul>
