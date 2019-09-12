@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Contagious To The Core - Volume 3"
+title: 'Contagious To The Core - Volume 3'
 category: release
-date:    2019-09-12
+date: 2019-09-12
 preview: /imgs/c2c3front.png
 ---
 
@@ -24,7 +24,7 @@ CONTAGIOUS TO THE CORE VOL 3
                 <select name="os0">
                     <option value="UK RESIDENTS">UK RESIDENTS £17.00 GBP</option>
                     <option value="REST OF WORLD">REST OF WORLD £22.50 GBP</option>
-                    <option value="DIGITAL DOWNLOAD">DIGITAL DOWNLOAD £10.00 GBP</option>
+                    <option value="DIGITAL DOWNLOAD">DIGITAL DOWNLOAD £15.00 GBP</option>
                 </select>
                 <input type="hidden" name="currency_code" value="GBP">
                 <p>
