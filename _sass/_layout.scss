@@ -1,7 +1,7 @@
 /**
  * Site header
  */
- .wrapper .container {
+.wrapper .container {
     max-width: 85rem;
 }
 
@@ -16,6 +16,10 @@
 
 .navbar {
     display: block;
+}
+
+.select {
+    background: white;
 }
 
 .nav-item {
@@ -35,8 +39,9 @@
 /**
  * override column size for mobile
  */
-@media (max-width: 40.0rem) {
-    .row .column.column-33, .row .column.column-34 {
+@media (max-width: 40rem) {
+    .row .column.column-33,
+    .row .column.column-34 {
         flex: 0 0 100%;
         max-width: 100%;
     }
@@ -46,7 +51,7 @@
  * Site Body
  */
 body {
-    background: #0f0f0f
+    background: #0f0f0f;
 }
 
 /**
@@ -71,7 +76,7 @@ body {
     padding: 1rem;
     box-sizing: border-box;
     border: 1px solid $color-initial;
-    
+
     &:hover {
         border: 1px solid $grey-color-light;
     }
@@ -81,7 +86,6 @@ body {
 .socials {
     list-style: none;
 }
-
 
 /* Page Date */
 .post-date {
