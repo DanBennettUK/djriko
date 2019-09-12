@@ -1,4 +1,4 @@
-yum install ruby23-devel.x86_64 zlib-devel
+yum install ruby24-devel.x86_64 zlib-devel
 
 gem install jekyll
 
