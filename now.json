@@ -9,5 +9,5 @@
             "config": { "distDir": "_site" }
         }
     ],
-    "regions": ["IAD1"]
+    "regions": "IAD1"
 }
