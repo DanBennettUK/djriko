@@ -8,5 +8,5 @@
             "use": "@now/static-build",
             "config": { "distDir": "_site" }
         }
-    ],
+    ]
 }
