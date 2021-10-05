@@ -5,9 +5,8 @@
     "builds": [
         {
             "src": "build.sh",
-            "use": "@now/static-build",
+            "use": "@vercel/static-build",
             "config": { "distDir": "_site" }
         }
-    ],
-    "regions": ["lhr1", "dub1", "bru1", "cdg1"]
+    ]
 }
